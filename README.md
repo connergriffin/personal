@@ -1,3 +1,2 @@
 # personal
-Mostly number theory or algebra programs and small programs for a course in programming for non-cs majors.
-Lots of small things about primes and gcd.
+Code from two courses I took in undergrad. I also took a numerical analysis course in undergrad for which I mostly worked in MatLab.
