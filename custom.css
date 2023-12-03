@@ -1,1 +1,8 @@
-body{background-color: rgb(255, 255, 255)}
+@keyframes colorhue{
+    from {-webkit-filter: hue-rotate(0deg); filter: hue-rotate(0deg);}
+    to {-webkit-filter: hue-rotate(180deg); filter: hue-rotate(180deg);}
+}
+
+.edit {
+    animation: colorhue 1s linear infinite;
+}
